@@ -1,5 +1,9 @@
-export default {
-  root: 'src/',
+import { defineConfig } from 'vite';
+import path from 'path';
+
+
+export default defineConfig({
+  root: path.resolve(__dirname, 'src'), // Set the root directory to 'src'
   publicDir: '../static/',
-  base: 'https://mbgame.github.io/threejs-fundamentals/',
-}
+  base: '/threejs-fundamentals/',
+});
