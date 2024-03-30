@@ -1,4 +1,5 @@
 # ThreeJS with Vite Starter Pack
+you can whatch the demo here : https://mbgame.github.io/threejs-fundamentals/
 ### Prerequisites
 Before you start, make sure you have Node.js installed on your machine: (https://nodejs.org/en/download/)
 
